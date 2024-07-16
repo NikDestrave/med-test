@@ -2,6 +2,8 @@
 
 ## Project Setup
 
+### Installing dependencies
+
 ```sh
 npm install
 ```
