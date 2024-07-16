@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+#app {
+  @apply flex flex-col h-dvh;
+}
+#app main {
+  @apply flex-grow;
+}
+
+.router-link-active {
+  @apply bg-gray-200;
+}
+
+/*# sourceMappingURL=tailwind.css.map */
